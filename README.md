@@ -32,7 +32,7 @@ cumbersome to send multiple values with GET.
 - /median
 - /percentile
 
-# Expected Body
+### Expected Body
 
 /min
 ```
@@ -73,7 +73,7 @@ cumbersome to send multiple values with GET.
 }
 ```
 
-# Success Response
+### Success Response
 
 /min
 ```
@@ -130,7 +130,7 @@ cumbersome to send multiple values with GET.
 }
 ```
 
-# Error Response
+### Error Response
 
 Error response is sent if required keys are missing from the request JSON data.
 
@@ -155,7 +155,7 @@ Missing quantifier key
 This script compares two versions containing "." and integers.
 The versions should contain atleast one "." and should be properly formatted.
 
-# Valid versions
+### Valid versions
 
 ```
 a.b
@@ -165,7 +165,7 @@ a.b.c.d
 etc.
 ```
 
-# Invalid versions
+### Invalid versions
 
 ```
 .a
