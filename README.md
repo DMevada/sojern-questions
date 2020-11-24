@@ -38,7 +38,7 @@ cumbersome to send multiple values with GET.
 ```
 {
 	"values": [4,8,2,1,7,12,22,-9],
-	"quantifier": 10
+	"quantifier": 1
 }
 ```
 
@@ -79,13 +79,6 @@ cumbersome to send multiple values with GET.
 ```
 {
   "minimum": [
-    4,
-    8,
-    2,
-    1,
-    7,
-    12,
-    22,
     -9
   ],
   "status": "success"
