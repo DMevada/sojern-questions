@@ -155,6 +155,12 @@ Missing quantifier key
 This script compares two versions containing "." and integers.
 The versions should contain atleast one "." and should be properly formatted.
 
+To run the version compare, execute the command below
+
+```
+python compare_version.py
+```
+
 ### Valid versions
 
 ```
