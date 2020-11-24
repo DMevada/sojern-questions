@@ -10,8 +10,10 @@ Flask can be installed using pip.
 
 ## Getting stated
 
+```
 git clone https://github.com/DMevada/sojern-questions
 cd sojern-questions
+```
 
 ## Math API
 
